@@ -150,7 +150,7 @@ header {
 
 /* cond */
 .cond {
-  background: url(../assets/images/cond/bg.png);
+  background: url(../assets/images/new_images/cond/bg.png);
   background-size: 150% 150%;
   background-position: 50% 70%;
   /*padding-bottom: 200px;*/
@@ -372,7 +372,7 @@ h4 {
   position: relative;
 }
 .order {
-  background: url('../assets/images/order/Eclipse.png');
+  background: url('../assets/images/new_images/order/Eclipse.png');
   background-size: cover;
 }
 .order-block {
